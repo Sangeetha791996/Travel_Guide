@@ -1,0 +1,84 @@
+
+/*First carousel*/
+
+.first {
+  position: absolute;
+  z-index: -1;
+}
+
+/*Destination and Interests styles*/
+
+.traveld{
+  margin: 43% 13% 3% 20%;
+  color: #888888;
+  text-align: left;
+}
+.travelI{
+  margin: 3% 13% 3% 20%;
+  color: #888888;
+  text-align: left;
+}
+.dest{
+  padding: 0 0 2% 0;
+}
+
+/*Wonders of the world*/
+
+.wonder{
+  margin: 6% 20%;
+}
+.an{
+  margin-top: 7%;
+}
+
+/*Link sytle for Destination and interest*/
+
+.linkd{
+  color: #888888;
+}
+
+/*Escape style*/
+
+.escape{
+  color: #888888;
+  font-weight: normal;
+}
+
+/*Footer stlyes*/
+
+.social-icon {
+  margin: 22px 10px;
+}
+.container-fluid{
+  padding: 1% 1% 0 1%;
+}
+.linkf{
+  color: #888888;
+  text-decoration: none;
+}
+
+/*Destination Page*/
+
+#D-Header{
+  background-color: #343a40;
+}
+
+/*Destination card*/
+.card{
+  margin: 7% 9% 7% 9%;
+}
+.carda{
+  margin-top: 15%;
+}
+.card-title{
+  text-align: center;
+}
+.card-link{
+  margin: 0 12%;
+}
+
+
+/*Explore zstyle*/
+.abu{
+  margin: 5% 35%;
+}
